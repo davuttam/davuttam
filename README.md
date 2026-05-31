@@ -35,7 +35,7 @@ An accomplished software professional specializing in building scalable, high-pe
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://in.linkedin.com/in/uttam-panday-08526ba1" target="_blank">
+  <a href="https://in.linkedin.com/in/uttam-panday" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://davuttam.github.io" target="_blank">
